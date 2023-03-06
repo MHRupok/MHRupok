@@ -18,5 +18,5 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mhrupok&show_icons=true&locale=en" alt="mhrupok" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=MHRupok" alt="mhrupok" /></p>
+<p>&nbsp;<img width=50% align="left" src="https://github-readme-stats.vercel.app/api?username=mhrupok&show_icons=true&locale=en" alt="mhrupok" /> <img width=50% src="http://github-readme-streak-stats.herokuapp.com?user=MHRupok" alt="mhrupok" /></p>
 
