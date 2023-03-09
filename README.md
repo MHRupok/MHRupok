@@ -21,4 +21,4 @@
 <span><img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=mhrupok&show_icons=true&locale=en" alt="mhrupok" />
   <img width=400 align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MHRupok" alt="mhrupok" /> </span>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{MHRupok}/count.svg)
