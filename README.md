@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Tech guy</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhrupok&label=Profile%20views&color=0e75b6&style=flat" alt="mhrupok" /> </p>
-<p>![Visitor Count](https://profile-counter.glitch.me/{MHRupok}/count.svg) </p>
+![Visitor Count](https://profile-counter.glitch.me/{MHRupok}/count.svg)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhrupok&row=2&column=3" alt="mhrupok" /></a> </p>
 
 - 🔭 I’m currently working on **333 Call Center CRM**
