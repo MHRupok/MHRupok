@@ -19,9 +19,8 @@
 
 <span><img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=mhrupok&show_icons=true&locale=en" alt="mhrupok" />
   <img width=400 align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MHRupok" alt="mhrupok" /> </span>
-
+<br>
 <p align="center"> 
-  <p align="center"> Visitors count</p>
-  <br>
+  Visitors count
   <img src="https://profile-counter.glitch.me/MHRupok/count.svg" />
 </p>
