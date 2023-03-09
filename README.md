@@ -21,6 +21,7 @@
   <img width=400 align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MHRupok" alt="mhrupok" /> </span>
 
 <p align="center"> 
-  Visitors count<br>
+  <p align="center"> Visitors count</p>
+  <br>
   <img src="https://profile-counter.glitch.me/MHRupok/count.svg" />
 </p>
