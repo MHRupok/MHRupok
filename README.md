@@ -1,5 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hassn Rupok</h1>
+
 <h3 align="center">Passionate Tech guy</h3>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SeniorSoftwareEngineer:
+
+    def __init__(self):
+        self.name = "MD Mehedi Hassan"
+        self.role = "Senior Software Engineer"
+        self.language_spoken = ["bn_BN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SeniorSoftwareEngineer()
+me.say_hi()
+```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhrupok&label=Profile%20views&color=0e75b6&style=flat" alt="mhrupok" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhrupok&row=2&column=3" alt="mhrupok" /></a> </p>
