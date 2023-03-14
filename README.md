@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hassn Rupok</h1>
+<h1 align="center">Hi 👋, I'm Mehedi Hassan Rupok</h1>
 
 <h3 align="center">Passionate Tech guy</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhrupok&label=Profile%20views&color=0e75b6&style=flat" alt="mhrupok" /> </p>
