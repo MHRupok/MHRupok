@@ -9,18 +9,18 @@
 # -*- coding: utf-8 -*-
 
 
-class SeniorSoftwareEngineer:
+class SoftwareEngineer:
 
     def __init__(self):
         self.name = "MD Mehedi Hassan"
-        self.role = "Senior Software Engineer"
+        self.role = "Software Engineer"
         self.language_spoken = ["bn_BN", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SeniorSoftwareEngineer()
+me = SoftwareEngineer()
 me.say_hi()
 ```
 
