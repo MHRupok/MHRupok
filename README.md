@@ -1,42 +1,82 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hassan Rupok</h1>
-
-<h3 align="center">Passionate Tech guy</h3>
+<h3 align="center">AI & Software Engineer | Azure Certified Solutions Architect</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhrupok&label=Profile%20views&color=0e75b6&style=flat" alt="mhrupok" /> </p>
-
 
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-class SoftwareEngineer:
+class Engineer:
 
     def __init__(self):
         self.name = "MD Mehedi Hassan"
-        self.role = "Software Engineer"
-        self.language_spoken = ["bn_BN", "en_US"]
+        self.role = "AI & Software Engineer"
+        self.certification = "Microsoft Certified: Azure Solutions Architect"
+        self.languages = ["Python", "JavaScript", "Java", "C/C++"]
+        self.focus = ["AI/ML", "LLMs", "Backend", "System Design"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Building AI-driven products that create real business impact 🚀")
 
-
-me = SoftwareEngineer()
+me = Engineer()
 me.say_hi()
 ```
 
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhrupok&row=2&column=3" alt="mhrupok" /></a> </p>
+### 🚀 About Me
+- 🧠 AI & Software Engineer with **5+ years of experience** in AI/ML, NLP, computer vision, and scalable backend development.  
+- 💡 Creator of **DigiX** (AI omni-channel chatbot) and **Roboket** (LLM-powered SaaS automation platform).  
+- 🔍 Skilled in **LLMs (Llama2, Falcon-7B, GPT)**, **Langchain**, **Hugging Face**, and **YOLOv8**.  
+- ☁️ **Azure Certified Solutions Architect** with expertise in cloud deployment and DevOps.  
+- 📊 Experienced in building **end-to-end AI pipelines**: data ingestion → model training → API deployment → frontend integration.  
+- 📫 Reach me at: **mehedihassanrupok@gmail.com**  
 
-- 🔭 I’m currently working on **333 Call Center CRM**
+---
 
-- 📫 How to reach me **mehedihassanrupok@gmail.com**
+### 🛠️ Tech Stack & Tools
+- **Languages**: Python, JavaScript, TypeScript, Java, C/C++  
+- **Frameworks**: FastAPI, Django, Angular  
+- **AI/ML**: TensorFlow, PyTorch, OpenCV, YOLOv8, Hugging Face, Langchain, Chromadb  
+- **Databases**: PostgreSQL, MongoDB, MySQL, Firebase  
+- **DevOps/Cloud**: Azure, AWS, Docker, Redis, Celery, Logic Apps  
+- **Others**: Chatwoot, Mautic, Keycloak, Git, Jira  
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 📌 Featured Projects
+- 🤖 [**DigiX Chatbot**](https://adndiginet.com/digix) – AI-powered omni-channel chatbot (Web, WhatsApp, Messenger) with contextual NLP.  
+- ⚡ [**Roboket**](https://adndiginet.com/roboket) – SaaS business automation platform powered by **LLMs (Llama2, Falcon-7B, GPT)**, Langchain & FastAPI.  
+- 🆔 **NID OCR Automation** – OCR pipeline for Bangla & English IDs, reducing KYC onboarding time by 40%.  
+- 🔊 **Speech-to-Text R&D** – Bangla transcription experiments using **Whisper** & **Wav2Vec2**, improving accuracy by 18%.  
+- 📝 [**Bangla Sentiment Analysis**](https://sentiment.bangla.gov.bd/sentiment-emotion-analysis) – Govt. project using **BERT pipelines** with annotation & real-time analysis.  
+- ♿ **Braille Display** – Affordable Bangla refreshable braille device (R&D with Prof. Zafar Iqbal).  
 
+---
 
+### 📚 Publications
+- “**Design and Development of Ribo: a Social Humanoid Robot**” — IEEE R10HTC 2017  
+- “**Substantive Tic-Tac-Toe with Robotic Arm**” — ICERIE 2017  
 
-<span><img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=mhrupok&show_icons=true&locale=en" alt="mhrupok" />
-  <img width=400 align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MHRupok" alt="mhrupok" /> </span>
+---
+
+### 🏆 Achievements
+- 🥇 Champion – BUET Model Ship Propulsion Competition 2018  
+- 🥇 Champion – Sumo Bot Fight, Technovanza 2016  
+- 🥈 1st Runner-up – Bangla Taka Recognition ML Contest 2019  
+
+---
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mhrupok&row=2&column=3" alt="mhrupok" />
+  </a> 
+</p>
+
+---
+
+<span>
+<img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=mhrupok&show_icons=true&locale=en" alt="mhrupok" />
+<img width=400 align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MHRupok" alt="mhrupok" />
+</span>
 <br>
